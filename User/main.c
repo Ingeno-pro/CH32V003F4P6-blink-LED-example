@@ -1,6 +1,6 @@
  
  
- /* @brief   Initializes GPIOD.0
+ /* @brief   Initializes GPIOC
  *
  * @return  none
  */
