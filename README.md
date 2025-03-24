@@ -10,3 +10,5 @@ The CH32V003F4P6's datasheet can be find [here](https://www.wch-ic.com/downloads
 ## Changelog 
 24/03/2025 : Add readme  
 23/03/2025 : Project publication  
+
+Please, if you have any suggest/question contact me on contact@ingeno.fr
